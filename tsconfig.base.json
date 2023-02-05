@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "strict": true,
+    "strictPropertyInitialization": true,
+    "strictNullChecks": true,
+    "allowUnreachableCode": false,
+    "exactOptionalPropertyTypes": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true,
+    "allowJs": true,
+  }
+}
+

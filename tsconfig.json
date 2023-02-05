@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    {"path": "./src/core"},
+    {"path": "./src/shim"}
+  ]
+}
+

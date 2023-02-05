@@ -1,0 +1,15 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "module": "NodeNext",
+    "target": "ESNext",
+    "moduleResolution": "NodeNext",
+    "outDir": "../../transient/shim",
+    "rootDir": "./",
+    "typeRoots": ["./log", "./util"]
+  },
+  "include": ["**/*","**/*.js", "**/*.d.ts"],
+  "exclude": [
+    "../../node_modules"
+  ]
+}
